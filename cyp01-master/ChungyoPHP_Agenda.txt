@@ -1,0 +1,133 @@
+﻿中佑PHP工程師職前訓練班  課程大綱
+
+
+HTML5 與 CSS3 入門與重點整理 (3HR)
+    - 網頁文件架構
+    - 常用元素整理與練習
+    - 絕對路徑與相對路徑
+    - 以實例學習CSS3常用功能
+    - Selector 選取器語法重點
+
+
+JavaScript (3HR)
+    - JavaScript 語法
+    - JavaScript 函式與物件
+    - JSON 語法與資料處理 
+
+
+Bootstrap 網站實作 (3HR)
+    - 試用與自訂 Bootstrap 套件 
+    - 練習 Bootstrap 的版面分割功能 
+    - 解說 Bootstrap 的色彩系統 
+    - 試用 Bootstrap 常用元件 
+    - 觀摩並評選 Bootstrap 樣版範例 
+    - 練習套用樣版範例，建構一個描述某人、事、物的網站作品
+
+
+Git 入門 (3HR)
+    - Git 簡介
+    - Git 安裝與基本操作
+    - 把檔案存入Git檔案庫
+    - 從Git檔案庫取回檔案
+    - 建立分支、合併和解決衝突
+
+
+PHP 程式語言 (15HR)
+    - PHP 程式架構與觀念
+    - 變數
+    - 運算元
+    - 程式流程控制（if、for、while等）
+    - 自訂函式寫作注意事項
+    - 基礎常用字串函式
+    - 陣列與相關函式
+    - 輸出/輸入
+    - 表單資料處理
+    - 狀態資訊管理
+
+
+MySQL 系統安裝與設定 (3HR)
+    - MySQL 系統架構簡介
+    - 安裝與設定 LAMP
+    - 設定伺服器組態
+    - 存取資料庫結構資訊
+    - MySQL 管理工具使用說明
+
+
+DDL 語法定義資料庫結構 (3HR)
+    - CREATE TABLE
+    - ALTER TABLE
+    - DROP TABLE
+    - MySQL 內建資料型態
+    - MySQL 各種 Storage Engine 的特性說明與評選
+    - 字元集與中文亂碼解決方案
+
+
+DML 語法重點整理 (3HR)
+
+
+PHP 資料庫程式設計 (3HR)
+    - 資料庫觀念與語法重點整理
+    - 傳統 mysql_*() 資料存取函式
+    - 安全程式設計SQL Injection / XSS
+    - 以 PDO 物件存取資料庫
+    - 將影音、圖片存入資料庫
+
+常用 jQuery API 要點 (3HR)
+    - Selector 語法重點 
+    - 以 jQuery 存取元素內容與屬性 
+    - 以 jQuery 調控 CSS 樣式 
+    - jQuery 事件處理函式 
+    - 其他常用 jQuery API
+
+
+PHP 與 jQuery 整合 (3HR)
+    - RESTful 網路服務
+    - jQuery 的 AJAX 相關 API 函式
+    - 以 jQuery 整合 RESTful 網路服務
+    - Same Origin Policy 限制與跨網域傳輸解決方案
+
+
+物件導向程式設計 (3HR)
+    - 物件導向觀念
+    - 以類別（class）封裝屬性與方法
+    - 物件的建構與解構
+    - 物件繼承與多形
+    - 以 Session 記憶物件與注意事項
+
+
+MVC（Model-View-Controller）架構 (3HR)
+    - MVC 觀念
+    - 編輯 .htaccess 建立路由（routing）機制
+    - 解讀網址，建構控制器(Controller)
+    - 建立 Model 以存取驗證資料
+    - 將 Model 的資料結合到 View 畫面
+
+
+單元測試 (3HR)
+    - 測試之於程式的重要性
+    - 什麼是單元測試
+    - 簡介 PHPUnit
+    - 撰寫 PHPUnit 測試程式
+    - Code Coverage 分析
+
+
+物件導向技術概論 (12HR)
+1. 概論/物件/訊息/類別
+2. UML介紹
+3. 定義系統的需求
+   3.1 需求擷取與定義
+   3.2 需求規格
+   3.3 需求驗證
+4. 分析功能面需求
+5. 分析系統架構
+6. 設計樣式Design Patterns的介紹
+  6.1 建構樣式 (Factory、Prototype、Singleton)
+  6.2 結構樣式 (Adapter、Bridge、Decorator、Facade)
+  6.3 行為樣式 (Command、Interpreter、Observer)
+
+
+專題指導 (6HR)
+
+
+學員作品發表與講評 (6HR)
+
